@@ -11,6 +11,12 @@ This is the Springboot application for the CRUD operations using the H2 database
 
 2 generate the file.
 
+#open the application using the eclipse or Intelij or Spring tool suite(Windows).
+# test the database connection 
+1 the connections can be tested before making farther implementation.
+2 to test the connection make change in the /src/main/resource/applicaion.properties file
+
+
 # Creating the model 
 the model is file where we define the veriables to be used.
 
